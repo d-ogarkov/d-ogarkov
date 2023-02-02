@@ -1,4 +1,14 @@
-### Hi there 👋
+### Привет, я Дмитрий.
+
+- Я занимаюсь и фронтендом, и бэкендом.
+- Стремлюсь больше думать о смысле того, что мы делаем.
+- Меня интересует построение качественных, эффективных и доступных для всех интерфейсов.
+
+Стек: HTML, CSS, JavaScript, React, Node.js, MongoDB, MySQL, PHP, jQuery.
+
+Ранний проект [Вход.ру](https://vhod.ru/) сделан на PHP/JavaScript/MySQL, сейчас я занимаюсь его переработкой.
+
+Небольшой вклад в Open Source — плагин [ExtLinks](https://github.com/d-ogarkov/jekyll-extlinks) для генератора статических сайтов [Jekyll](https://github.com/jekyll/jekyll).
 
 <!--
 **d-ogarkov/d-ogarkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
