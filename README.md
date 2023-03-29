@@ -1,15 +1,19 @@
 ### Привет, я Дмитрий.
 
-- Я занимаюсь и фронтендом, и бэкендом.
+- Занимаюсь и фронтендом, и бэкендом.
 - Стремлюсь больше думать о смысле того, что мы делаем.
 - Меня интересует построение качественных, эффективных и доступных для всех интерфейсов.
 - В роли старшего студента помогаю учиться студентам факультета веб-разработки Яндекс.Практикума.
 
-Стек: HTML, CSS, JavaScript, React, Node.js, MongoDB, MySQL, PHP, jQuery.
+Стек: HTML, CSS, JavaScript, React, Node.js, MongoDB, PHP, MySQL.
 
-Ранний проект [Вход.ру](https://vhod.ru/) сделан на PHP/JavaScript/MySQL, сейчас я его перерабатываю.
+### Примеры проектов
 
-Небольшой вклад в Open Source — плагин [ExtLinks](https://github.com/d-ogarkov/jekyll-extlinks) для генератора статических сайтов [Jekyll](https://github.com/jekyll/jekyll).
+* [Вход.ру](https://vhod.ru/): PHP/JavaScript/jQuery/MySQL, шаблонизатор для статей на основе XML/XSLT.
+* [Movies Explorer](https://movies.ogarkov.com/), [Mesto](https://mesto.ogarkov.com/): React/Node.js/Express/MongoDB, верстка по макету в Figma.
+* [Путешествие по России](https://d-ogarkov.github.io/russian-travel/): верстка по макету в Figma.
+* [Плагин ExtLinks](https://github.com/d-ogarkov/jekyll-extlinks) для генератора статических сайтов [Jekyll](https://github.com/jekyll/jekyll): Ruby.
+* [Рулус](http://rulus.ru/): кастомная тема для MediaWiki: CSS.
 
 <!--
 **d-ogarkov/d-ogarkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
